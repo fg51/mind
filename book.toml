@@ -1,0 +1,5 @@
+[book]
+authors = ["kflange"]
+multilingual = false
+src = "src"
+title = "Mind Story"
